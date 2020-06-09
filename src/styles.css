@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #ffdd90;
+    background-image: url("Fondo.png");
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-position: 50% 30%;
+  }
