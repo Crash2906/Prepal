@@ -14,8 +14,7 @@ export class AppComponent {
     this.json.getJson('http://127.0.0.1:3333/Packs/Take').subscribe((res: any) => {
       console.log(res);
     });
-
+    // gate type aplicate json
   }
 
 }
-

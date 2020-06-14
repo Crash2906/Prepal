@@ -8,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class PackVerComponent implements OnInit {
   lols: string[] = ['rai1', 'rai2', 'rai3'];
 
+
+
   Datos: Array<any> = [
     {}
 
